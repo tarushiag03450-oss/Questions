@@ -14,7 +14,7 @@ class UserMain{
       }
       if(isPrime){
         count++;
-        if(count==n){
+        if(count==input1){
           return num;
         }
       }
